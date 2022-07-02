@@ -38,7 +38,7 @@ def bergl():
     sleep(0.1)
     xclick('//*[@id="vote"]')
     sleep(0.1)
-
+input("数量")
 for i in range(1000):
     sakana()
     wagasi()
